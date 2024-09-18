@@ -1,4 +1,4 @@
-package org.example;
+package org.example.task2.Student;
 
 public class Student {
     private  String name;
